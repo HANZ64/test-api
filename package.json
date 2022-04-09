@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "name": "test-api",
+  "description": "Test API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HANZ64/test-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HANZ64/test-api/issues"
+  },
+  "homepage": "https://github.com/HANZ64/test-api#readme"
 }
