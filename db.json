@@ -1,0 +1,106 @@
+{
+	"events": [
+		{
+			"Id": 0,
+			"Name": "Europe 2021",
+			"Colour": "#999",
+			"ImageUrl": "http://test.com/test",
+			"StartDate": "01/04/2022",
+			"EndDate": "01/04/2022",
+			"IsVisible": true,
+			"IsFrozen": false,
+			"attendees": [
+				{
+				"attendeeType": [
+					"buyers",
+					"suppliers"
+				  ]
+				}
+			]
+		},
+		{
+			"id": 1,
+			"name": "Pulled Mooshie",
+			"restaurant": "Mooshies",
+			"web": "www.veganburger.org",
+			"description": "Spicy vegan burger with jackfruit",
+			"ingredients": [
+			"jackfruit",
+			"coleslaw",
+			"gluten free bun"
+			],
+			"addresses": [
+			{
+				"addressId": 0,
+				"number": "104",
+				"line1": "Brick Lane",
+				"line2": "Shoreditch",
+				"postcode": "E1 6RL",
+				"country": "United Kingdom"
+			},
+			{
+				"addressId": 1,
+				"number": "101",
+				"line1": "Random Lane",
+				"line2": "Road",
+				"postcode": "E1 4PB",
+				"country": "United World"
+			}
+			]
+		},
+		{
+			"id": 2,
+			"name": "Krabby Patty",
+			"restaurant": "Krusty Krab",
+			"web": "https://twitter.com/SpongeBob",
+			"description": "The only people who don't like a Krabby Patty have never tasted one.",
+			"ingredients": [
+			"bun",
+			"patty",
+			"ketchup",
+			"mustard",
+			"pickles",
+			"onions",
+			"lettuce",
+			"cheese",
+			"tomato",
+			"bun"
+			],
+			"addresses": [
+			{
+				"addressId": 0,
+				"number": "831",
+				"line1": "Bottom Feeder Lane",
+				"line2": "",
+				"postcode": "",
+				"country": "Bikini Bottom, Pacific Ocean"
+			}
+			]
+		},
+		{
+			"id": 3,
+			"name": "The Good Burger",
+			"restaurant": "Good Burger",
+			"web": "https://en.wikipedia.org/wiki/Good_Burger",
+			"description": "Welcome to Good Burger, home of the Good Burger, can I take your order?",
+			"ingredients": [
+			"bun",
+			"tomato",
+			"Ed's secret sauce",
+			"lettuce",
+			"onions",
+			"cheese"
+			],
+			"addresses": [
+			{
+				"addressId": 0,
+				"number": "000",
+				"line1": "Good Burger",
+				"line2": "437 Glendora Ave.",
+				"postcode": "CA",
+				"country": "United States"
+			}
+			]
+		}
+	]
+}
